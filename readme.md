@@ -1,4 +1,4 @@
-# Simon 
+# Simon Mulin
 
 Ce projet contient une structure de base pour une page web simple, incluant des éléments HTML (basique), du CSS (basique), et un script JavaScript (basique).
 
